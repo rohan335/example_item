@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:example_item"
+  },
+  "result": "minecraft:netherite_ingot",
+  "experience": 0.0,
+  "comment1": "negative experience will probably cause a problem :)",
+  "cookingtime": 40,
+  "comment2": "cooking time in ticks (20 ticks per second)"
+}
